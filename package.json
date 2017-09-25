@@ -1,0 +1,7 @@
+{
+  "name": "River Falls Construction",
+  "version": "0.0.1",
+  "dependencies": {
+    "readline-sync": "latest"
+  }
+}
